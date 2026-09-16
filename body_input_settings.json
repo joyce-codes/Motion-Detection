@@ -1,0 +1,55 @@
+{
+  "camera_index": 0,
+  "capture_width": 640,
+  "capture_height": 480,
+  "capture_fps": 60,
+  "mirror": true,
+  "show_overlay": true,
+
+  "hold_keys": true,
+  "pulse_actions": ["up", "down"],
+  "cooldown_sec": 0.1,
+  "start_armed": false,
+
+  "lean_sensitivity": 0.13,
+  "jump_sensitivity": 0.1,
+  "jump_velocity": 0.8,
+  "duck_sensitivity": 0.1,
+  "release_ratio": 0.55,
+
+  "lean_gain": 1.0,
+  "yaw_gain": 1.0,
+  "tilt_gain": 0.8,
+
+  "smoothing_alpha": 0.6,
+  "scale_smoothing": 0.06,
+  "gesture_frames_on": 2,
+  "gesture_frames_off": 2,
+  "neutral_adaptation": 0.02,
+  "calibrate_seconds": 1.5,
+  "auto_calibrate_frames": 20,
+
+  "min_visibility": 0.05,
+  "detection_confidence": 0.3,
+  "tracking_confidence": 0.3,
+
+  "left_key": "left",
+  "right_key": "right",
+  "up_key": "up",
+  "down_key": "down",
+  "game_profile": "subway_surfer",
+
+  "profiles": {
+    "arrow_runner":         { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "temple_run_1":         { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "temple_run_2":         { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "subway_surfer":        { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "geometry_dash":        { "left": "left", "right": "right", "up": "space", "down": "down" },
+    "blades_of_brim":       { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "talking_tom_gold_run": { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "sonic_dash":           { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "minion_rush":          { "left": "left", "right": "right", "up": "up",    "down": "down" },
+    "wasd_runner":          { "left": "a",    "right": "d",     "up": "w",     "down": "s" },
+    "touch_swipe":          { "left": "left", "right": "right", "up": "up",    "down": "down" }
+  }
+}
