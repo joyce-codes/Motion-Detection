@@ -6,7 +6,6 @@
   "mirror": true,
   "show_overlay": true,
   
-  
   "hold_keys": true,
   "pulse_actions": ["up", "down"],
   "cooldown_sec": 0.1,
