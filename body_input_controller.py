@@ -3,6 +3,18 @@
 BodyPlay - turns upper-body motion into ordinary keyboard presses.
 
 Design goals
+
+
+
+mm
+m
+m
+
+
+m
+
+
+
 ------------
 1. UPPER BODY ONLY. Only the nose, eyes, ears and shoulders are used, so a
    webcam that crops your legs (or even your shoulders) still works.
