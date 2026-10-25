@@ -7,8 +7,6 @@ Design goals
 
 
 mm
-m
-
 
 
 
